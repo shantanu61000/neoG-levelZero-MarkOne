@@ -2,6 +2,10 @@
 ## JavaScript CLI app on who knows me best
 
 This is simple JavaScript CLI Quiz app. It has 8 questions in total about me.
+
+[**--> Click here to play the game**](https://replit.com/@shantanu61000/MarkOne-do-you-know-me-QUIZ?embed=1&output=1)
+
+
 ## List of npm packages used
 ### readlineSync
 Features of readlineSync that are used in this app
