@@ -2,7 +2,7 @@
 ## JavaScript CLI app on who knows me best
 
 This is simple JavaScript CLI Quiz app. It has 8 questions in total about me.
-## List of packages used
+## List of npm packages used
 ### readlineSync
 Features of readlineSync that are used in this app
 1. readlineSync.quetion - to takes simple user inputs
