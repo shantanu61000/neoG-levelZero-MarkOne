@@ -1,4 +1,5 @@
-# neroG-MarkOne JavaScript CLI app on who knows me best
+# neoG - levelZero - MarkOne
+## JavaScript CLI app on who knows me best
 
 This is simple JavaScript CLI Quiz app. It has 8 questions in total about me.
 ## List of packages used
